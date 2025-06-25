@@ -11,7 +11,7 @@
 
 
 ```javascript
-const anmol = {
+const tanvir_islam_akash = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Python", "Dart"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
@@ -24,9 +24,6 @@ const anmol = {
         backEnd: {
             js: ["Node", "Express", "NestJS"],
             python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
         },
         devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         cloudServices: {
