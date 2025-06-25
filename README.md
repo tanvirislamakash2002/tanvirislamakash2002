@@ -1,5 +1,5 @@
 # 💫 About Me:
- 1. I'm a full stack web developer.<br>2. I have 1 year experience at web developing.<br>3. I have finished around 6 project and continuously learning new things.<br>4. I'm good at react, next.js and mongodb
+I'm a full stack web developer. I have 1 year experience at web developing. I have finished around 6 project and continuously learning new things. I'm good at react, next.js and mongodb
 
 
 ## 🌐 Socials:
