@@ -30,7 +30,7 @@ const tanvir_islam_akash = {
         databases: ["MongoDB", "MySQL"],
     },
     currentFocus: "AI-driven code learning, mastering new technologies, and practical implementation",
-    funFact: "I can debug faster while listening music!"
+    funFact: "I debug faster when I listen to music 😊"
 };
 ```
   
