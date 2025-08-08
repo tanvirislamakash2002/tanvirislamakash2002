@@ -1,6 +1,6 @@
 # 💫 About Me:
 <ol>
-  <li>I'm a <b>MERN stack</b>b> (MongoDB, Express.js, React, Node.js) **web developer** with **hands-on experience** in building full-stack applications.</li>
+  <li>I'm a <b>MERN stack</b> (MongoDB, Express.js, React, Node.js) **web developer** with **hands-on experience** in building full-stack applications.</li>
   <li>I have **1 year of experience** in **web development**, specializing in modern JavaScript frameworks.</li>
   <li>I've successfully **completed around 6 projects** and am **constantly learning** new technologies to stay updated.</li>
   <li>I'm **proficient** in **React, Next.js, and MongoDB**, with a strong focus on clean, scalable code.</li>
