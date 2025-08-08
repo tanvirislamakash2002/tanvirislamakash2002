@@ -1,4 +1,4 @@
-<img alt='GitHub Banner' src='./githubBanner2.png' width="100%">
+<img alt='GitHub Banner' src='./bannerImg.png' width="100%">
 # 💫 About Me:
 <ol>
   <li>Hi, I'm <b>Tanvir Islam Akash</b>!</li>
