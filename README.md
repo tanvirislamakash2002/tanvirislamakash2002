@@ -6,7 +6,7 @@
   <li>I have <b>1 year of experience</b> in <b>web development</b>, specializing in modern JavaScript frameworks.</li>
   <li>I've successfully <b>completed around 6 projects</b> and am <b>constantly learning</b> new technologies to stay updated.</li>
   <li>I'm <b>proficient</b> in <b>React, Next.js, and MongoDB</b>, with a strong focus on clean, scalable code.</li>
-  <li>Currently I'm learning more in <b>Next.js</b> and <b>TypeScript</b></li>
+  <li>Currently I'm learning more in <b>Next.js</b> and <b>TypeScript</b>.</li>
 </ol>
 
 
