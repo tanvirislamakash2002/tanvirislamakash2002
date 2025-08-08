@@ -1,3 +1,4 @@
+<img alt='GitHub Banner' src='./githubBanner2.png' width="100%">
 # 💫 About Me:
 <ol>
   <li>I'm a <b>MERN stack</b> (MongoDB, Express.js, React, Node.js) <b>web developer</b> with <b>hands-on experience</b> in building full-stack applications.</li>
@@ -34,7 +35,7 @@ const tanvir_islam_akash = {
 };
 ```
   
-<img alt='GitHub Banner' src='./githubBanner2.png' width="100%">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirislamakash2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirislamakash2002@gmail.com) 
