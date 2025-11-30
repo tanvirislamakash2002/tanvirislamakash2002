@@ -50,11 +50,12 @@ const tanvir_islam_akash = {
 ![](https://nirzak-streak-stats.vercel.app/?user=tanvirislamakash2002&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirislamakash2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=tanvirislamakash2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="100%" />
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=tanvirislamakash2002&theme=tokyonight&hide_border=false" width="100%" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirislamakash2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvirislamakash2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tanvirislamakash2002&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirislamakash2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=tanvirislamakash2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
