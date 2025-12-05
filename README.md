@@ -27,7 +27,7 @@ const tanvir_islam_akash = {
             js: ["Node", "Express", "MongoDB"],
         },
         databases: ["MongoDB", "MySQL"],
-        generativeAI: ["GPT", "Claude AI", "DeepSeek],
+        generativeAI: ["GPT", "Claude AI", "DeepSeek"],
     },
     architecture: {
         databases: ["MongoDB", "MySQL"],
