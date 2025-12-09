@@ -20,7 +20,7 @@ const tanvir_islam_akash = {
     askMeAbout: ["web desigh", "web dev", "UI/UX"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React", "Next.js", "TypeScript"],
             css: ["Tailwind", "DaisyUI", "Bootstrap"],
         },
         backEnd: {
