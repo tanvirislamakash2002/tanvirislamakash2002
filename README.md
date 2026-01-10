@@ -1,5 +1,5 @@
 <img alt='GitHub Banner' src='./bannerImg.png' width="100%">
-# 💫 About Me:
+# 💫 <h2>About Me:</h2>
 <ul>
   <li>Hi, I'm <b>Tanvir Islam Akash</b>!</li>
   <li>I'm a <b>MERN stack</b> (MongoDB, Express.js, React, Node.js) <b>web developer</b> with <b>hands-on experience</b> in building full-stack applications.</li>
