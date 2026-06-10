@@ -50,7 +50,7 @@ const tanvir_islam_akash = {
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanvirislamakash2002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://streak-stats.demolab.com?user=tanvirislamakash2002&theme=tokyonight&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanvirislamakash2002)](https://git.io/streak-stats)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirislamakash2002&theme=tokyonight&hide_border=true&layout=compact)
 
